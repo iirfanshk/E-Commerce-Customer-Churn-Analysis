@@ -1,0 +1,6 @@
+~$*
+.ipynb_checkpoints/
+*.pbi*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
